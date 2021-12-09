@@ -1,0 +1,7 @@
+﻿  hangman.cpp
+C:\Users\USER\Documents\C++프로그래밍\Hangman Project\hangman.cpp(58,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\C++프로그래밍\Hangman Project\hangman.cpp(63,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\C++프로그래밍\Hangman Project\hangman.cpp(70,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\C++프로그래밍\Hangman Project\hangman.cpp(84,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\C++프로그래밍\Hangman Project\hangman.cpp(90,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Hangman Project.vcxproj -> C:\Users\USER\Documents\C++프로그래밍\Hangman Project\Debug\Hangman Project.exe

@@ -1,0 +1,16 @@
+﻿  4-1.cpp
+  4-2.cpp
+  4-3.cpp
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(43,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(44,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(45,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(67,69): error C2664: 'NameCard::NameCard(char *,char *,char *,int)': 인수 1을(를) 'const char [4]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(67,20): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(37,2): message : 'NameCard::NameCard' 선언을 참조하십시오.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(68,75): error C2664: 'NameCard::NameCard(char *,char *,char *,int)': 인수 1을(를) 'const char [5]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(68,21): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(37,2): message : 'NameCard::NameCard' 선언을 참조하십시오.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(69,75): error C2664: 'NameCard::NameCard(char *,char *,char *,int)': 인수 1을(를) 'const char [4]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(69,21): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\USER\Documents\C++프로그래밍\열혈연습\Chapter4\4-3.cpp(37,2): message : 'NameCard::NameCard' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
