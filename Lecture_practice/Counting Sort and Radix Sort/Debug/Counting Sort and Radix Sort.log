@@ -1,0 +1,8 @@
+﻿  sorting.cpp
+C:\Users\USER\cpp_practice\Lecture_practice\Counting Sort and Radix Sort\sorting.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\cpp_practice\Lecture_practice\Counting Sort and Radix Sort\sorting.cpp(38,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\cpp_practice\Lecture_practice\Counting Sort and Radix Sort\sorting.cpp(49,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\cpp_practice\Lecture_practice\Counting Sort and Radix Sort\sorting.cpp(51,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\cpp_practice\Lecture_practice\Counting Sort and Radix Sort\sorting.cpp(55,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\cpp_practice\Lecture_practice\Counting Sort and Radix Sort\sorting.cpp(125,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Counting Sort and Radix Sort.vcxproj -> C:\Users\USER\cpp_practice\Lecture_practice\Counting Sort and Radix Sort\Debug\Counting Sort and Radix Sort.exe
